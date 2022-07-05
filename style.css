@@ -159,3 +159,20 @@ h2{
     font-weight: 600;
 }
 
+.end{
+    text-align: center;
+    padding: 30px
+}
+
+footer{
+    background-color: black;
+}
+
+.para4{
+    color: white;
+}
+
+.h2-f{
+    font-family: 'Poppins', sans-serif;
+}
+
