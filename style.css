@@ -138,4 +138,24 @@ h2{
     margin-bottom: 30px;
 }
 
+.last-sec{
+   justify-content: center; 
+   box-shadow: 5px 5px 20px black;
+   margin-left: 23.5%;
+   margin-right: 23%;
+   border-radius: 10px;
+   margin-bottom: 50px;
+}
+
+.last{
+    
+    padding: 20px;
+    padding-right: 40px;
+}
+
+.l-h3{
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
 
